@@ -21,6 +21,7 @@ You can read my reflections on this project here:
   and the Caldicott Principles
 - Defined policy ownership, review cycles, and enforcement mechanisms
 - Led peer reviews and contributed to the executive report
+- Developed collaboratively with the CyBlack Team 2 cohort
 
 ## Policy Inventory
 1. [Information Security Policy](policies/fortisaid-information-security-policy.pdf)
