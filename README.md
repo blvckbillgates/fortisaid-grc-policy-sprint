@@ -1,7 +1,7 @@
 # FortisAid GRC Policy Sprint
 
 ## Overview
-This repository contains the deliverables from a 3-week Governance, Risk, and
+This repository contains the deliverables from a 2-week Governance, Risk, and
 Compliance (GRC) sprint as part of the **CyBlack programme**. Our team built a
 security governance framework for **FortisAid**, a fictional healthcare
 technology organisation mirroring the NHS, handling electronic health records,
