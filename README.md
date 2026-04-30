@@ -4,7 +4,7 @@
 This repository contains the deliverables from a 2-week Governance, Risk, and
 Compliance (GRC) sprint as part of the **CyBlack programme**. Our team built a
 security governance framework for **FortisAid**, a fictional healthcare
-technology organisation mirroring the NHS, handling electronic health records,
+technology organisation, handling electronic health records,
 diagnostic images, and clinical data.
 
 The goal was to move beyond theory and create operational information security
